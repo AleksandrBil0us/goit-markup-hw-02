@@ -107,6 +107,10 @@ element styles header */
   letter-spacing: 0.06em;
   cursor: pointer;
 }
+.btn:hover,
+.btn:focus {
+  background-color: #188ce8;
+}
 
 /* стили елементов секции преимуществ 
 element styles section features */
