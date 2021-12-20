@@ -200,6 +200,7 @@ element styles footer */
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 
 .footer-link {
@@ -208,6 +209,7 @@ element styles footer */
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 
 .address:hover,
